@@ -1,0 +1,10 @@
+http://coenraets.org/blog/phonegap-tutorial/
+https://developer.android.com/design/index.html
+https://auth0.com/pricing
+http://www.raona.com/es/Solutions/Template/163/App-nativa-web-o-h%C3%ADbrida-
+
+Los desarrolladores pueden reducir el tiempo de desarrollo generando empaquetadores con software de proveedores como PhoneGap y Appcelerator.
+https://monaca.io/pricing.html
+https://www.youtube.com/watch?v=YdshHqwrUa0
+http://appositivas.blogspot.com.es/2014/11/herramientas-para-crear-nuestra-app-hibrida.html
+https://solidgeargroup.com/desarrollo-de-apps-hibridas-con-ionic?lang=es	
